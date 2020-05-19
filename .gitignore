@@ -1,5 +1,5 @@
-config.h
 version.h
 *.d
 *.o
 sxiv
+.ccls-cache/
